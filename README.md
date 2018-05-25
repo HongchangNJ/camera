@@ -1,2 +1,0 @@
-# camera
-Android camera app
